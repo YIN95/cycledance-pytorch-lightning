@@ -11,7 +11,7 @@ We present CycleDance, a dance style transfer system to transform an existing mo
 
 You can find the demo [here](https://youtu.be/kP4DBp8OUCk).
 
-**__Code & Dataset__**
+**__Code__**
 
-Code and Dataset are coming soon.
+Code will come.
 
